@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Andrew!
+## 👋 Hi, I'm Andrew!
 
-## I lead business transformation leveraging data and analytics 🎆
+### I lead business transformation leveraging data and analytics 🎆
 
 
 <!--
