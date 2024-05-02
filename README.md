@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm Andrew!
+
+## I lead business transformation leveraging data and analytics 🎆
+
 
 <!--
 **acon2345/acon2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
