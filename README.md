@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Andrew!
 
-### Experienced in Finance and Data Analytics with over 5 years of expertise in handling complex data and leading business operations. Holding a Bachelor's Degree in Psychology, I bring hands-on experience in finance, analytics, and leadership.
+### Experienced in Finance and Data Analytics with over 5 years of expertise in handling complex data and leading business operations.
+### Holding a Bachelor's Degree in Psychology, I bring hands-on experience in finance, analytics, and leadership.
 
 
 <!--
